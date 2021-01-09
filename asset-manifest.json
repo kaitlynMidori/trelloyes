@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/trelloyes/static/css/main.825ee06a.chunk.css",
+    "main.js": "/trelloyes/static/js/main.3ddddcb8.chunk.js",
+    "main.js.map": "/trelloyes/static/js/main.3ddddcb8.chunk.js.map",
+    "runtime-main.js": "/trelloyes/static/js/runtime-main.e553d57d.js",
+    "runtime-main.js.map": "/trelloyes/static/js/runtime-main.e553d57d.js.map",
+    "static/js/2.36a0bc92.chunk.js": "/trelloyes/static/js/2.36a0bc92.chunk.js",
+    "static/js/2.36a0bc92.chunk.js.map": "/trelloyes/static/js/2.36a0bc92.chunk.js.map",
+    "index.html": "/trelloyes/index.html",
+    "static/css/main.825ee06a.chunk.css.map": "/trelloyes/static/css/main.825ee06a.chunk.css.map",
+    "static/js/2.36a0bc92.chunk.js.LICENSE.txt": "/trelloyes/static/js/2.36a0bc92.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e553d57d.js",
+    "static/js/2.36a0bc92.chunk.js",
+    "static/css/main.825ee06a.chunk.css",
+    "static/js/main.3ddddcb8.chunk.js"
+  ]
+}
